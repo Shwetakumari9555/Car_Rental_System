@@ -2,7 +2,7 @@
 
 # Car Rental System 🚗
 
-Explore the Car Rental System, a Java-based console application that revolutionizes the car rental experience. Dive into a world of rentals, management, and simulation.
+Explore the Car Rental System, a Java-based console application that revolutionizes the car rental experience. Dive into a world of rentals, management, and simulation, all implemented using Object-Oriented Programming (OOP) principles.
 
 ## Features 🌟
 
